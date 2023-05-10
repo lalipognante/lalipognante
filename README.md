@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2> Hola, soy Lali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Ingeniera de Sistemas en<a href="https://www.ucc.edu.ar/carreras/ingenieria-de-sistemas"> Universidad Católica de Córdoba</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- </br>Software Developer en <a href="http://www.checkbox.com.ar/">CheckBox</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </br>Software Developer en <a href="http://www.bitlogic.io/">Bitlogic</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  <p><em>Data Scientist en<a href="https://www.acamica.com/data-science?utm_source=adwords&utm_term=%2Bdata%20%2Bscience%20%2Bacamica&utm_medium=ppc&utm_campaign=Ac%C3%A1mica+Brand+Terms&hsa_kw=%2Bdata%20%2Bscience%20%2Bacamica&hsa_acc=8956516354&hsa_mt=b&hsa_ad=379855393429&hsa_cam=6467590204&hsa_tgt=kwd-628948735330&hsa_ver=3&hsa_src=g&hsa_grp=76602913399&hsa_net=adwords&gclid=Cj0KCQjwkZiFBhD9ARIsAGxFX8AMvvx6WQxsye4fdpCcZKPqzMOCD-lFFeFIMu85ChMd8d-b_eQoLrMaAp9qEALw_wcB"> Acamica</a><img src="https://media.giphy.com/media/8dYmJ6Buo3lYY/giphy.gif" width="40">
 </em></p>
 
