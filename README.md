@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const lali = {
-  code: [Python, PHP, Angular, Javascript],
+  code: [ReactJS, Angular, Python, PHP, Javascript],
   database: [SQL, NoSQL],
   skills: ["metodologias-agiles", "estructuras-de-datos", "git"]
   expirience: ["software-developer", "Project Business Analyst"]
